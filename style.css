@@ -1,8 +1,8 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("");
       background-size: cover;
-      color: white;
+      color: blue;
     }
     .nav {
       color: white;
